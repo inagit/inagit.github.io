@@ -1,0 +1,42 @@
+nav a{
+    font-family: 'Bangers', cursive;
+}
+.bangers{
+font-family: 'Bangers', cursive;
+}
+.sticky-bottom{
+    position: sticky;
+    top: 0;
+    bottom: 0;
+}
+a{
+    cursor: pointer;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+#parallax2{
+    background-image: url(../img/dc.jpg);
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#parallax3{
+    background-image: url(../img/marvel.jpg);
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#parallax4{
+    background-image: url(../img/comics.jpg);
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
